@@ -33,6 +33,7 @@ public class CalculatorApp {
                 default:
                     System.out.println("Invalid choice. Try again.");
                     continue;
+                    
             }
 
             System.out.print("Enter number x a> ");
